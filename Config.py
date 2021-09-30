@@ -18,10 +18,10 @@ if ENVIRONMENT:
 else:
     # Fill the Values
     API_ID = 0
-    API_HASH = ""
-    BOT_TOKEN = ""
-    DATABASE_URL = ""
+    API_HASH = "134"
+    BOT_TOKEN = "135"
+    DATABASE_URL = "1236"
     DATABASE_URL = DATABASE_URL.replace("postgres", "postgresql")
     MUST_JOIN = ""
-    if MUST_JOIN.startswith("@"):
+    if MUST_JOIN.startswith("@tellybots_4u"):
         MUST_JOIN = MUST_JOIN[1:]
