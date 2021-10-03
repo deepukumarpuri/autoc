@@ -23,5 +23,5 @@ else:
     DATABASE_URL = "1236"
     DATABASE_URL = DATABASE_URL.replace("postgres", "postgresql")
     MUST_JOIN = ""
-    if MUST_JOIN.startswith("@tellybots_4u"):
+    if MUST_JOIN.startswith("@DKBOTZ"):
         MUST_JOIN = MUST_JOIN[1:]
