@@ -8,9 +8,9 @@ Hey {}
 
 Welcome to {}
 
-You can use me to manage channels with tons of features. Use below buttons to learn more !
+You Can Use Me To Manage Channels With Tons Of Features. Use Below Buttons To Learn More !
 
-By @Tellybots_4u
+By @DKBOTZ
     """
 
     # Home Button
@@ -20,19 +20,19 @@ By @Tellybots_4u
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/tellybots_4u")],
+        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/DKBOTZSTATUS/2")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/tellybots_4u")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/tellybots_support")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/DKBOTZ/300")],
+        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/DK_BOTZ")],
     ]
 
     # Help Message
     HELP = """
-Everything is self explanatory after you add a channel.
-To add a channel use keyboard button 'Add Channels' or alternatively for ease, use /add command
+Everything is Self Explanatory After You Add a Channel.
+To Add a Channel Use Keyboard Button 'Add Channels' or Alternatively For Ease, use /add Command
 
 ✨ Available Commands ✨
 
@@ -50,13 +50,13 @@ Alternative Commands
     ABOUT = """
 About This Bot 
 
-A telegram channel automation bot by @Tellybots_4u
+A Telegram Channel Automation Bot By @DKBOTZ
 
-Source Code : [Click Here](https://t.me/tellybots_digital)
+ALL BOT STATUS : [Click Here](https://t.me/DKBOTZSTATUS/2)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @Tellybots_4u
+Developer : [Anonymous](https://t.me/DKBOTZHELP)
     """
