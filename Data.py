@@ -20,7 +20,7 @@ By @DKBOTZ
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/DKBOTZNETWORK/50")],
+        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/DKBOTZNETWORK/100")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
@@ -50,9 +50,9 @@ Alternative Commands
     ABOUT = """
 About This Bot 
 
-A Telegram Channel Automation Bot By @DKBOTZ
+A Telegram Channel Manager Bot By @DKBOTZ
 
-ALL BOT STATUS : [Click Here](https://t.me/DKBOTZNETWORK/50)
+ALL BOT STATUS : [Click Here](https://t.me/DKBOTZNETWORK/100)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
